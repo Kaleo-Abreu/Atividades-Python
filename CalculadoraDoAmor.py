@@ -25,6 +25,6 @@ if placar < 10:
 elif placar < 50:
     print("Talvez com muito esforço!")
 elif placar < 100:
-    print("Vocês formam um belo casal! <3")
+    print("Vocês formam um belo casal!")
 else:
-    print("Vocês terão um relacionamento muito intenso! <3 <3 <3")
+    print("Vocês terão um relacionamento muito bom! <3")
